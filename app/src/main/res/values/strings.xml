@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CubeSimpleToken</string>
+    <string name="login">Логин</string>
+    <string name="signin">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="title_activity_prime">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="open_access">Открыть доступ!</string>
+    <string name="empty" />
+</resources>
